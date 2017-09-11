@@ -1,5 +1,6 @@
 a {
-  color: #2c3e50
+  color: #2c3e50;
+  background-image: none;
 }
 .topBar {
   height: 7px;
