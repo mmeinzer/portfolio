@@ -15,6 +15,7 @@ export default () => (
         <div className={styles.content}>
           <h1><Link to={"/"}>Matt Meinzer</Link></h1>
           <Navigation />
+          <h2>Hello my name is Matt!</h2>
         </div>
       </div>
     </div>
